@@ -217,5 +217,5 @@ Este é um projeto de demonstração educacional. Todos os direitos reservados.
 
 ---
 
-**Desenvolvido com ❤️ para o Mundo Kids**
+**Desenvolvido com ❤️ para o Mundo Pequenino**
 
