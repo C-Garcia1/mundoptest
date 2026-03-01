@@ -1,7 +1,7 @@
 #Projeto utilizado para o desenvolvimento de um projeto interdisciplinar na instituição de ensino SEG, basicamente tudo do projeto foi desenvolvido por IA, apenas algumas alterações mínimas e as imagens foram de autoria dos membros da equipe
 
 
-#Estrtura HTML desenvolvida pela IA
+#Estrutura HTML desenvolvida pela IA
 #Estilização CSS desenvolvida pela IA 
 #Scripts JavaScript desenvoldida pela IA
 
