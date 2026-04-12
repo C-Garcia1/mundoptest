@@ -64,6 +64,6 @@ Este projeto foi uma excelente oportunidade para aplicar conhecimentos de desenv
 
 ## 🤝 Contribuições
 
-Desenvolvido por [Seu Nome/Nome da Equipe] com o apoio de ferramentas de Inteligência Artificial.
+Desenvolvido por Alana, Carlos e Julia com o apoio de ferramentas de Inteligência Artificial.
 
 ---
